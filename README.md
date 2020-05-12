@@ -1,6 +1,6 @@
-# gkm v1.0.4
+# gkm v1.0.5
 
-> My legendary Nuxt.js project
+Nuxt.js project linked to Netlify server
 
 ## Build Setup
 
